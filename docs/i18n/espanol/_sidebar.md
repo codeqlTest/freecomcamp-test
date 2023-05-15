@@ -1,0 +1,44 @@
+- **Comenzando**
+  - [Introducción](index.md "Contribuye a la comunidad freeCodeCamp.org")
+  - [Preguntas más frecuentes](FAQ.md)
+  - [Informar una vulnerabilidad](security.md)
+- **Contribución a la Traducción**
+  - [Trabajar en la traducción de recursos](how-to-translate-files.md)
+  - [Revisar las traducciones](how-to-proofread-files.md)
+- **Participa en la programación**
+  - [Configuración de FreeCodeCamp](how-to-setup-freecodecamp-locally.md)
+  - [Seguir las mejores prácticas de código](codebase-best-practices.md)
+  - [Abrir una solicitud de cambio](how-to-open-a-pull-request.md)
+  - [Trabajar en Codebase](how-to-contribute-to-the-codebase.md)
+  - [Realizar desafíos de código](how-to-work-on-coding-challenges.md)
+  - [Trabajar con la biblioteca de componentes](how-to-work-on-the-component-library.md)
+  - [Trabajar en proyectos de práctica](how-to-work-on-practice-projects.md)
+  - [Trabajar con una aplicación de móvil](how-to-setup-freecodecamp-mobile-app-locally.md)
+  - [Ayudar en tutoriales con CodeRoad](how-to-work-on-tutorials-that-use-coderoad.md)
+  - [Trabajar en una aplicación web localizada](how-to-work-on-localized-client-webapp.md)
+  - [Realizar las pruebas Cypress](how-to-add-cypress-tests.md)
+  - [Ayudar con los desafíos de videos](how-to-help-with-video-challenges.md)
+  - [Trabajar en la Documentación](how-to-work-on-the-docs-theme.md)
+- **Guías adicionales**
+  - [Entender la estructura de los archivos del currículo](curriculum-file-structure.md)
+  - [Depurar localmente los emails salientes](how-to-catch-outgoing-emails-locally.md)
+  - [Configurar freeCodeCamp en Windows (WSL)](how-to-setup-wsl.md)
+  - [Flujo de trabajo del Token del usuario](user-token-workflow.md)
+  - [Solución de Problemas en el Desarrollo](troubleshooting-development-issues.md)
+  - [Manual para Autores de Google Analytics](authors-analytics-manual.md)
+
+---
+
+- **Manuales de Vuelo** (para el personal & moderadores)
+  - [Manual del moderador](moderator-handbook.md)
+  - [Libro Principal de Idiomas](language-lead-handbook.md)
+  - [Manual de DevOps](devops.md)
+  - [Extensión de cursos de VSCode](courses-vscode-extension.md)
+  - [Habilitar nuevo idioma](how-to-enable-new-languages.md)
+
+---
+
+- **Nuestra Comunidad**
+  - [**GitHub**](https://github.com/freecodecamp/freecodecamp)
+  - [**Foro Discourse**](https://freecodecamp.org/forum/c/contributors)
+  - [**Servidor de chat**](https://discord.gg/PRyKn3Vbay)
